@@ -1,0 +1,4 @@
+{
+  "name": "Firebase Auth Demo",
+  "description": "A complete React application demonstrating Firebase Authentication integration with Email/Password login, signup, and protected routes."
+}
